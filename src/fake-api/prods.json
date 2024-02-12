@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "productName": "Ülker Çikolatalı Gofret",
+      "productDescription": "Sütlü, kakaolu çikolatalı gofret",
+      "stock": 300,
+      "type": "unit",
+      "category": "Gıda",
+      "price": 10.5,
+      "manufacturer": "Ülker"
+    },
+    {
+      "id": 2,
+      "productName": "Pınar Süt",
+      "productDescription": "Pastörize süt",
+      "stock": 500,
+      "type": "unit",
+      "category": "Gıda",
+      "price": 3,
+      "manufacturer": "Pınar"
+    },
+    {
+      "id": 3,
+      "productName": "Torku Un",
+      "productDescription": "Ekmeklik un",
+      "stock": 2000,
+      "type": "unit",
+      "category": "Gıda",
+      "price": 5,
+      "manufacturer": "Torku"
+    },
+    {
+      "id": 4,
+      "productName": "Domestos Çamaşır Suyu",
+      "productDescription": "Dezenfekte edici çamaşır suyu",
+      "stock": 100,
+      "type": "unit",
+      "category": "Temizlik",
+      "price": 8,
+      "manufacturer": "Domestos"
+    },
+    {
+      "id": 5,
+      "productName": "Colgate Diş Macunu",
+      "productDescription": "Florür içeren diş macunu",
+      "stock": 150,
+      "type": "unit",
+      "category": "Kişisel Bakım",
+      "price": 6,
+      "manufacturer": "Colgate"
+    },
+    {
+      "id": 6,
+      "productName": "Koçtaş Boya",
+      "productDescription": "İç ve dış mekanlar için boya",
+      "stock": 100,
+      "type": "unit",
+      "category": "Ev Dekorasyon",
+      "price": 25,
+      "manufacturer": "Koçtaş"
+    },
+    {
+      "id": 7,
+      "productName": "Coca Cola",
+      "productDescription": "Kafeinli gazlı içecek",
+      "stock": 200,
+      "type": "unit",
+      "category": "İçecek",
+      "price": 4,
+      "manufacturer": "Coca Cola Company"
+    },
+    {
+      "id": 8,
+      "productName": "Ülker Çikolata",
+      "productDescription": "Sütlü çikolata",
+      "stock": 150,
+      "type": "unit",
+      "category": "Gıda",
+      "price": 2,
+      "manufacturer": "Ülker"
+    },
+    {
+      "id": 9,
+      "productName": "Samsung Akıllı Telefon",
+      "productDescription": "Yüksek performanslı akıllı telefon",
+      "stock": 50,
+      "type": "unit",
+      "category": "Teknoloji",
+      "price": 1500,
+      "manufacturer": "Samsung"
+    },
+    {
+      "id": 10,
+      "productName": "Duru Sabun",
+      "productDescription": "Mis gibi kokan doğal sabun",
+      "stock": 200,
+      "type": "unit",
+      "category": "Kişisel Bakım",
+      "price": 3,
+      "manufacturer": "Duru"
+    }
+  ]
+  

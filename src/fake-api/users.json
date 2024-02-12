@@ -1,0 +1,123 @@
+[
+    {
+      "id": 456,
+      "name": "Ayşe",
+      "surname": "Kaya",
+      "email": "ayse.kaya@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5321234567",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "address": "Bahçelievler Mah. Ankara Cad. No:22/3",
+      "branch": "Çankaya-Merkez Şubesi"
+    },
+    {
+      "id": 789,
+      "name": "Mehmet",
+      "surname": "Demir",
+      "email": "mehmet.demir@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5309876543",
+      "city": "İzmir",
+      "district": "Konak",
+      "address": "Güzelyalı Mah. İzmir Cad. No:15/5",
+      "branch": "Konak-Merkez Şubesi"
+    },
+    {
+      "id": 234,
+      "name": "Fatma",
+      "surname": "Yılmaz",
+      "email": "fatma.yilmaz@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5344567890",
+      "city": "Bursa",
+      "district": "Nilüfer",
+      "address": "Yıldırım Mah. Bursa Cad. No:10/2",
+      "branch": "Nilüfer-Merkez Şubesi"
+    },
+    {
+      "id": 567,
+      "name": "Ahmet",
+      "surname": "Öztürk",
+      "email": "ahmet.ozturk@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5359876543",
+      "city": "Antalya",
+      "district": "Muratpaşa",
+      "address": "Lara Mah. Antalya Cad. No:7/9",
+      "branch": "Muratpaşa-Merkez Şubesi"
+    },
+    {
+      "id": 890,
+      "name": "Zeynep",
+      "surname": "Çelik",
+      "email": "zeynep.celik@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5381234567",
+      "city": "Adana",
+      "district": "Seyhan",
+      "address": "Reşatbey Mah. Adana Cad. No:18/4",
+      "branch": "Seyhan-Merkez Şubesi"
+    },
+    {
+      "id": 123,
+      "name": "Sevilay",
+      "surname": "Yılmaz",
+      "email": "yilmaz.sevilay@gmail.com",
+      "areaCode": "+90",
+      "phoneNumber": "5423957516",
+      "city": "İstanbul",
+      "district": "Beylikdüzü",
+      "address": "Marmara Mah. İhlas Cad. No:12/7",
+      "branch": "Beylikdüzü-Marmara Şubesi"
+    },
+    {
+      "id": 518,
+      "name": "Selin",
+      "surname": "Toprak",
+      "email": "selin.toprak@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5362345678",
+      "city": "İzmir",
+      "district": "Buca",
+      "address": "Çamlık Mah. İzmir Cad. No:20/6",
+      "branch": "Buca-Merkez Şubesi"
+    },
+    {
+      "id": 345,
+      "name": "Can",
+      "surname": "Korkmaz",
+      "email": "can.korkmaz@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5318765432",
+      "city": "Ankara",
+      "district": "Yenimahalle",
+      "address": "Fatih Mah. Ankara Cad. No:5/3",
+      "branch": "Yenimahalle-Merkez Şubesi"
+    },
+    {
+      "id": 901,
+      "name": "Ceren",
+      "surname": "Demir",
+      "email": "ceren.demir@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5393456789",
+      "city": "İstanbul",
+      "district": "Kadıköy",
+      "address": "Fenerbahçe Mah. İstanbul Cad. No:8/1",
+      "branch": "Kadıköy-Merkez Şubesi"
+    },
+    {
+      "id": 678,
+      "name": "Burak",
+      "surname": "Kaya",
+      "email": "burak.kaya@example.com",
+      "areaCode": "+90",
+      "phoneNumber": "5329876543",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "address": "Bahçelievler Mah. Ankara Cad. No:10/4",
+      "branch": "Çankaya-Merkez Şubesi"
+    }
+  ]
+  
